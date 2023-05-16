@@ -1,4 +1,12 @@
-### Hi there 👋
+## 유혜인 (Hyein You)
+##### Mobile App Developer
+> Android, kotlin, JAVA
+##### 2001. 04. 03.
+🍀 laksjd4560@gmail.com </br>
+🍀 <I>[RESUME](https://drive.google.com/file/d/1fReuutPjPLLejSb6U-TB_sb14YpNGSHT/view?usp=sharing)</I>  
+🍀 <I>[Portfolio](https://oval-mile-bbb.notion.site/55ef9723a7d34b9bb4e11fc841e64e4d)</I>  
+🍀 <I>[Github](https://github.com/YouHyein-hi)</I> 
+
 
 <!--
 **YouHyein-hi/YouHyein-hi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
