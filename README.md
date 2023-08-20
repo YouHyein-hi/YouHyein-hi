@@ -3,8 +3,8 @@
 > Android, kotlin, JAVA
 ##### 2001. 04. 03.
 🍀 laksjd4560@gmail.com </br>
-🍀 <I>[RESUME](https://drive.google.com/file/d/1fReuutPjPLLejSb6U-TB_sb14YpNGSHT/view?usp=sharing)</I>  
-🍀 <I>[Portfolio](https://oval-mile-bbb.notion.site/55ef9723a7d34b9bb4e11fc841e64e4d)</I>  
+🍀 <I>[RESUME](https://drive.google.com/file/d/16mNDtuIeveQ6CRnLBETTlLFbV8nMRdHW/view?usp=sharing)</I>  
+🍀 <I>[Portfolio](https://drive.google.com/file/d/1LattaI-yi3wUTqpbclc5wI25cg1N_MIH/view?usp=sharing)</I>  
 🍀 <I>[GooglePlay](https://play.google.com/store/apps/developer?id=youHI)</I> </br>
 🍀 <I>[Github](https://github.com/YouHyein-hi)</I> 
 
