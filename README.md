@@ -3,11 +3,7 @@
 > Android, kotlin, JAVA
 ##### 2001. 04. 03.
 🍀 laksjd4560@gmail.com </br>
-🍀 <I>[RESUME](https://drive.google.com/file/d/16mNDtuIeveQ6CRnLBETTlLFbV8nMRdHW/view?usp=sharing)</I>  
-🍀 <I>[Portfolio](https://drive.google.com/file/d/1LattaI-yi3wUTqpbclc5wI25cg1N_MIH/view?usp=sharing)</I>  
 🍀 <I>[GooglePlay](https://play.google.com/store/apps/developer?id=youHI)</I> </br>
-🍀 <I>[Github](https://github.com/YouHyein-hi)</I> 
-
 
 <!--
 **YouHyein-hi/YouHyein-hi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,4 +18,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+🍀 <I>[RESUME](https://drive.google.com/file/d/16mNDtuIeveQ6CRnLBETTlLFbV8nMRdHW/view?usp=sharing)</I>  
+🍀 <I>[Portfolio](https://drive.google.com/file/d/1LattaI-yi3wUTqpbclc5wI25cg1N_MIH/view?usp=sharing)</I>
 -->
